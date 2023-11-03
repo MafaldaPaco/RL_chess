@@ -1,2 +1,2 @@
 # RL_chess
-RL agent capable of playing chess
+This repository is a university project showcasing my RL (Reinforcement Learning) skills.
