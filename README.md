@@ -1,2 +1,2 @@
 # RL_chess
-This repository is a university project showcasing my RL (Reinforcement Learning) skills.
+Reinforcement Learning project, teaching a tabula rasa agent to play chess.
